@@ -2,6 +2,6 @@ package testProject;
 
 public class testMain {
  /**
-  * コメント
+  * コメント こんにちは
   */
 }
